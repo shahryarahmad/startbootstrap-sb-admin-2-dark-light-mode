@@ -8,16 +8,14 @@ For the legacy Bootstrap 3 version of this theme, you can view the [last stable 
 
 [![SB Admin 2 Preview](https://assets.startbootstrap.com/img/screenshots/themes/sb-admin-2.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
-**[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
+**[Launch Live Preview]([https://startbootstrap.github.io/startbootstrap-sb-admin-2/](https://shahryarahmad.github.io/startbootstrap-sb-admin-2-dark-light-mode/))**
 
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-sb-admin-2/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-sb-admin-2.svg)](https://www.npmjs.com/package/startbootstrap-sb-admin-2)
-[![Build Status](https://www.travis-ci.com/wp-content/uploads/2022/09/Logo.png)](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2?type=dev)
-
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/shahryarahmad/startbootstrap-sb-admin-2-dark-light-mode?label=version)
+![GitHub last commit](https://img.shields.io/github/last-commit/shahryarahmad/startbootstrap-sb-admin-2-dark-light-mode)
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
