@@ -6,7 +6,7 @@ For the legacy Bootstrap 3 version of this theme, you can view the [last stable 
 
 ## Preview
 
-[![SB Admin 2 Preview](http://sigmasolutions.pk/images/sbAdmin2-dark.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![SB Admin 2 Preview](http://sigmasolutions.pk/images/sbAdmin2-dark.png)](https://shahryarahmad.github.io/startbootstrap-sb-admin-2-dark-light-mode/)
 
 **[Launch Live Preview]([https://startbootstrap.github.io/startbootstrap-sb-admin-2/](https://shahryarahmad.github.io/startbootstrap-sb-admin-2-dark-light-mode/))**
 
