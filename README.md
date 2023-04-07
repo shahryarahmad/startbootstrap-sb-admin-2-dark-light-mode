@@ -22,8 +22,8 @@ To begin using this template, choose one of the following options to get started
 
 - [Download the latest release on Start Bootstrap](https://startbootstrap.com/theme/sb-admin-2/)
 - Install via npm: `npm i startbootstrap-sb-admin-2`
-- Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-sb-admin-2.git`
-- [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-sb-admin-2)
+- Clone the repo: `git clone https://github.com/shahryarahmad/startbootstrap-sb-admin-2-dark-light-mode.git`
+- [Fork, Clone, or Download on GitHub](https://github.com/shahryarahmad/startbootstrap-sb-admin-2-dark-light-mode)
 
 ## Usage
 
