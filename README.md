@@ -81,6 +81,7 @@ Changes made for dark-mode
 - id `navAlertDropDown` added `bg-dark-mode`
 - id `messageCenterDropDown` added `bg-dark-mode`
 - id `userNameSpan` removed `text-gray-600` added `text-white`
+- id `content-wrapper` added `bg-dark-mode`
 - id `pageHeading` removed `text-gray-800` added `text-white`
 - id `cardMonthlyHead` added `bg-transparent`
 - id `cardMonthly` removed `text-gray-800` added `text-white`
@@ -102,4 +103,19 @@ Changes made for dark-mode
 - id `cardIllustrationsHeader` added `bg-transparent`
 - id `cardApproach` added `bg-transparent`, `text-white`
 - id `cardApproachHeader` added `bg-transparent`
-- class sticky-footer added `bg-dark-menu`, `shadow-light` and `text-white`
+- class `sticky-footer` added `bg-dark-menu`, `shadow-light` and `text-white`
+### Changes in login page
+- `body` added `bg-dark-menu`
+- id `loginForm` added `bg-dark-mode`
+- id `welcomeText` removed `text-gray-900`added `text-white` 
+- id `exampleInputEmailLogin`rmoved`text-gray`added`bg-transaprent`
+- id `exampleInputPasswordLogin`removed`text-gray`added`bg-transparent`
+### Changes in sign up page
+- id `body` added `bg-dark-menu`
+- id `registerForm`added `bg-dark-mode`
+- id `creatanAcount`removed `text-gray-900`addaed`text-white`
+- id `exampleInputfirstName`removed`text-gray`added`bg-transparent`
+- id `exampleInputlastName`removed`text-gray`added`bg-transparent`
+- id `exampleInputEmail`removed`text-gray`added`bg-transparent`
+- id `exampleInputPassword`removed`text-gray`added`bg-tranparent`
+- id `exapleInputrepeatPasswrod`removed`text-gray`added`bg-transparent`
